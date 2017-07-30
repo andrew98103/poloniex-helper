@@ -1,0 +1,49 @@
+div[data-item="dynamicBox"] {
+	position:		fixed;
+	top:			100px;
+	left:			20%;
+	z-index:		10;
+}
+div[data-item] > .head i.fa {
+	cursor:			pointer;
+	font-size:		12px;
+}
+div[data-item="dynamicBox"].closed {
+	top:			95% !important;
+	border:			none;
+}
+div[data-item="dynamicBox"] > .tab.head {
+	border:			1px solid #1E5724;
+	border-bottom:	0;
+	height:			20px;
+	font-size:		12px;
+	line-height:	1.5;
+	width:			100px;
+	padding:		5px;
+	text-align:		center;
+}
+div[data-item="dynamicBox"].opened > .tab.head {
+	display:		none;
+}
+div[data-item] > .data {
+	padding:		5px;
+	margin-top:		-11px;
+}
+#marginHistory {
+	max-height:		175px;
+	overflow:		auto;
+	float:			left;
+	margin-top:		20px;
+	margin-left:	50px;
+	min-width:		175px;
+}
+#marketTables .marketContainer.active {
+	max-width:		28vw;
+	overflow:		auto;
+}
+#totalVal {
+	position:		absolute;
+	font-size:		14px;
+	top:			12px;
+	right:			60px;
+}
