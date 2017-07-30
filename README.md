@@ -8,6 +8,12 @@ Some simple addons to help with Poloniex
 
 ![Screenshot](http://andrew98103.github.io/poloniex-helper/screenshot.png)
 
+## Install
+
+Install extension directly from Chrome Web Store.
+
+[https://chrome.google.com/webstore/detail/poloniex-helper/leecgfoonhofmfkjeohmjjlobfleinga](https://chrome.google.com/webstore/detail/poloniex-helper/leecgfoonhofmfkjeohmjjlobfleinga)
+
 ## What's included
 
 ```bash
