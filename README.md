@@ -10,7 +10,7 @@ Some simple addons to help with Poloniex
 
 ## What's included
 
-```javascript
+```bash
 poloniex-helper/
 ├── dist/
     ├── font-awesome.min.css	# font awesome library
